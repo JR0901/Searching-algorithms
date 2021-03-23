@@ -1,5 +1,5 @@
-# Searching-algorithms
-Binary 
-linear search in Python 3
+# Searching-algorithms in Python 3
+-Binary 
+-Linear search
 
 
